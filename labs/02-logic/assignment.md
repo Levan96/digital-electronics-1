@@ -48,7 +48,18 @@
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure](images/111.png)
+   ```
+   [2022-03-01 17:22:22 EST] ghdl -i design.vhd testbench.vhd  && ghdl -m  tb_comparator_4bit && ghdl -r  tb_comparator_4bit   --vcd=dump.vcd && sed -i 's/^U/X/g; s/^-/X/g; s/^H/1/g; s/^L/0/g' dump.vcd 
+analyze design.vhd
+analyze testbench.vhd
+elaborate tb_comparator_4bit
+testbench.vhd:51:9:@0ms:(report note): Stimulus process started
+testbench.vhd:65:9:@100ns:(report note): Stimulus process finished
+Finding VCD file...
+./dump.vcd
+[2022-03-01 17:22:23 EST] Opening EPWave...
+Done
+   ```
 
 3. Link to your public EDA Playground example:
 
