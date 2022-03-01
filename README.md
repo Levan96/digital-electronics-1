@@ -1,5 +1,5 @@
 # digital-electronics-1
-## H1 List
+##  List
 1. list1
 2. list2
 3. list3
