@@ -43,11 +43,12 @@
         report "Stimulus process finished" severity note;
         wait;
     end process p_stimulus;
+
 ```
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![image](images/console.png)
+   ![your figure](images/111.png)
 
 3. Link to your public EDA Playground example:
 
