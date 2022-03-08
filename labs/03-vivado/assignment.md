@@ -47,30 +47,28 @@ Select File -> Project -> New...
 
 ![1](images/1.PNG)
 
-Next.
+Name project and select project location.
 
 ![2](images/2.PNG)
 
-Name project and select project location.
+Select RTL Project since we are doing RTL design.
 
 ![3](images/3.PNG)
 
-Select RTL Project since we are doing RTL design.
+Add/create sources for project. 
 
 ![4](images/4.PNG)
 
-Add/create sources for project. 
+Add physical and timing constrains and for our board. 
 
 ![5](images/5.PNG)
 
-Add physical and timing constrains and for our board.
+Select the part.
 
 ![6](images/6.PNG)
 
-Select the part.
+Finish.
 
 ![7](images/7.PNG)
 
-Finish.
 
-![8](images/8.PNG)
