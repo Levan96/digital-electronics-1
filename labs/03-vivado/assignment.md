@@ -38,7 +38,7 @@ set_property -dict { PACKAGE_PIN H17   IOSTANDARD LVCMOS33 } [get_ports { B_less
 set_property -dict { PACKAGE_PIN K15   IOSTANDARD LVCMOS33 } [get_ports { B_equals_A_o }]; #IO_L24P_T3_RS1_15 Sch=led[1]
 set_property -dict { PACKAGE_PIN J13   IOSTANDARD LVCMOS33 } [get_ports { B_greater_A_o }]; #IO_L17N_T2_A25_15 Sch=led[2]
 A Vivado tutorial. Submit:
-
+```
 # Tutorial (how to setup project in vivado, adding sources/tb files/constrains and running simulation)
 
 Your tutorial for Vivado design flow: project creation, adding source file, adding testbench file, adding XDC constraints file, running simulation.
@@ -74,5 +74,3 @@ Select the part.
 Finish.
 
 ![7](imges/7.PNG)
-...
-```
