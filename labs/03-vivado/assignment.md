@@ -45,32 +45,32 @@ Your tutorial for Vivado design flow: project creation, adding source file, addi
 
 Select File -> Project -> New...
 
-![1](imges/1.PNG)
+![1](images/1.PNG)
 
 Next.
 
-![2](imges/2.PNG)
+![2](images/2.PNG)
 
 Name project and select project location.
 
-![3](imges/3.PNG)
+![3](images/3.PNG)
 
 Select RTL Project since we are doing RTL design.
 
-![4](imges/4.PNG)
+![4](images/4.PNG)
 
 Add/create sources for project. 
 
-![5](imges/5.PNG)
+![5](images/5.PNG)
 
 Add physical and timing constrains and for our board.
 
-![6](imges/6.PNG)
+![6](images/6.PNG)
 
 Select the part.
 
-![7](imges/7.PNG)
+![7](images/7.PNG)
 
 Finish.
 
-![7](imges/7.PNG)
+![7](images/7.PNG)
