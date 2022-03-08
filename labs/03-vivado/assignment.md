@@ -73,4 +73,4 @@ Select the part.
 
 Finish.
 
-![7](images/7.PNG)
+![8](images/8.PNG)
