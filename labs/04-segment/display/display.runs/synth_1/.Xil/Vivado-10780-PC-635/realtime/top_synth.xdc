@@ -1,1 +1,0 @@
-set_property SRC_FILE_INFO {cfile:D:/Documents/xmesho00/digital-electronics-1/labs/04-segment/display/display.srcs/constrs_1/new/nexys-a7-50t.xdc rfile:../../../../../display.srcs/constrs_1/new/nexys-a7-50t.xdc id:1} [current_design]
