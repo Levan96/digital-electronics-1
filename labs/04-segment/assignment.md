@@ -82,7 +82,7 @@ end architecture testbench;
 
 2. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![simulace](images4/simulace.png)
+   ![simulace](images4/simulace.PNG)
 
 ### LED(7:4) indicators
 
