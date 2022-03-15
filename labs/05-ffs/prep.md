@@ -1,8 +1,8 @@
-   ![Characteristic equations](images/eq_flip_flops.png)
+   
 ```  
 q_{n+1}^D = D 
 q_{n+1}^{JK} = J * (not q_n) + (not K) * q_n
-    q_{n+1}^T = T * (not q_n) + (not T) * q_n
+q_{n+1}^T = T * (not q_n) + (not T) * q_n
 ```
 
    **D-type FF**
