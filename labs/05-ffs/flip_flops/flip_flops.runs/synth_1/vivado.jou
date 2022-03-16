@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Mar 16 10:02:41 2022
+# Process ID: 8632
+# Current directory: D:/Documents/xmesho00/digital-electronics-1/labs/05-ffs/flip_flops/flip_flops.runs/synth_1
+# Command line: vivado.exe -log d_ff_rst.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source d_ff_rst.tcl
+# Log file: D:/Documents/xmesho00/digital-electronics-1/labs/05-ffs/flip_flops/flip_flops.runs/synth_1/d_ff_rst.vds
+# Journal file: D:/Documents/xmesho00/digital-electronics-1/labs/05-ffs/flip_flops/flip_flops.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source d_ff_rst.tcl -notrace
