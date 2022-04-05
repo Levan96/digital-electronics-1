@@ -139,7 +139,7 @@ begin
                     when others =>
                         s_hex <= data0_i;
                         dp_o <= dp_i(3);
-                        dig_o <= "1111";
+                        dig_o <= "1110";
                 end case;
             end if;
         end if;
